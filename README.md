@@ -18,3 +18,5 @@ RUN composer install --no-dev -o
 
 CMD ["/usr/bin/supervisord","-c","/etc/supervisor/supervisord.conf"]
 ```
+
+详见：https://hub.docker.com/repository/docker/jerrytzf/php
