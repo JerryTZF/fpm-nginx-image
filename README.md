@@ -1,5 +1,5 @@
 # fpm-nginx-image
-> 带有常用扩展的、包含nginx的php-fpm镜像
+> 带有常用扩展的、包含nginx的php-fpm8.0镜像
 > 
 > 给thinkPHP和laravel框架使用
 
